@@ -1,0 +1,50 @@
+.nav1{
+    color: black;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+}
+.nav1 .nav-link:hover{
+    color: #8d6555;
+}
+.hero-containt h1{
+    line-height: 46px;
+}
+.hero-containt p{
+    line-height: 36px;
+}
+.fratcher-content img{
+    font-size: 24px;
+    line-height:36px ;
+    font-family: 'Poppins', sans-serif;
+}
+.fratcher-content p{
+    line-height: 24x;
+    font-family: 'Poppins', sans-serif;
+}
+.featcher .box-1{
+    transition: 2s;
+}
+.featcher .box-1:hover{
+    transform: scale(1.1);
+    
+}
+.client img{
+    width: 80px;
+    border: 1px solid rgb(54, 51, 51);
+    border-radius: 50%;
+    overflow: auto;
+    margin-left: 39px;
+    margin-top: 8px;
+}
+footer ul li{
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+}
+footer ul li i{
+    font-size: 30px;
+    padding: 10px;
+}
+footer .www{
+    letter-spacing: 10px;
+}
